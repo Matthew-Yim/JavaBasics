@@ -317,6 +317,7 @@ public static void v1IfStatement(){
     }
     //EXERCISES CONTROL FLOW(CONDITIONAL)
 
+	
     //EXERCISES LOOPS
     public static void v1Forloop(){
         for (int i = 1; i < 11; i++) {
@@ -515,10 +516,10 @@ public static void v1IfStatement(){
     }
     //EXERCISES ARRAYS
 
-
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     public static void main(String[] args) {
 	// write your code here
-        //EXERCISES VARIABLE
+//      //EXERCISES VARIABLE
         v1AddInt();
         v2AddDouble();
         v3AddDoubleInt();
